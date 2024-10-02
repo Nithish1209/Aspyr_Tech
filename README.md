@@ -1,5 +1,5 @@
 # Aspyr_Tech
-<h2><div color="red">My</div> ideas! Developing a company's infrastructure through promotions, LinkedIn engagement, and a website can significantly boost visibility and growth. Here’s how you could approach each</h2>
+<h2>My ideas! Developing a company's infrastructure through promotions, LinkedIn engagement, and a website can significantly boost visibility and growth. Here’s how you could approach each</h2>
 <ol>
   <li>
     <strong>LinkedIn Promotion Strategy</strong>
