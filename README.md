@@ -1,5 +1,5 @@
 # Aspyr_Tech
-#My name is Nitish Jalapu, and I aspire to become a Java full-stack developer
+<h1>My name is Nitish Jalapu, and I aspire to become a Java full-stack developer</h1>
 <h2>My ideas! Developing a company's infrastructure through promotions, LinkedIn engagement, and a website can significantly boost visibility and growth. Here’s how you could approach each</h2>
 <ol>
   <li>
